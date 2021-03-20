@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PandeyAssociates</string>
+    <string name="eg_wb34bp4575">Eg: WB34BP4575</string>
+    <string name="enter_registration_number">Enter Registration Number</string>
+    <string name="CustomerRegistration">Registration</string>
+    <string name="btn_view">View</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_clear">Clear</string>
+    <string name="Customername">Customer Name</string>
+    <string name="textview">TextView</string>
+</resources>
