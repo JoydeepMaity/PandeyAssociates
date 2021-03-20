@@ -13,7 +13,7 @@ public class ConnectionHelper {
 
     @SuppressLint("NewApi")
     public Connection conclass() {
-        ip="192.168.43.243";
+        ip="0.0.0.0";
         port="51688";
         db="Joydeep";
         un="sa";
