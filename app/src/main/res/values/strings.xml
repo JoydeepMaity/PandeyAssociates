@@ -8,4 +8,9 @@
     <string name="btn_clear">Clear</string>
     <string name="Customername">Customer Name</string>
     <string name="textview">TextView</string>
+    <string name="contract_no">Contract No</string>
+    <string name="name">Name</string>
+    <string name="vehicle">Vehicle</string>
+    <string name="chassis_no">Chassis No</string>
+    <string name="engine_no">Engine No</string>
 </resources>

@@ -63,8 +63,8 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="10dp"
         android:layout_marginTop="91dp"
-        android:text="Contract No"
-        android:textSize="20dp"
+        android:text="@string/contract_no"
+        android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/et_rg" />
 
@@ -76,7 +76,7 @@
         android:layout_marginTop="25dp"
         android:layout_marginEnd="20dp"
         android:text=""
-        android:textSize="20dp"
+        android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/textView14"
         app:layout_constraintTop_toBottomOf="@+id/btn_view" />
@@ -87,8 +87,8 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="10dp"
         android:layout_marginTop="25dp"
-        android:text="Name"
-        android:textSize="20dp"
+        android:text="@string/name"
+        android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView14" />
 
@@ -100,7 +100,7 @@
         android:layout_marginTop="25dp"
         android:layout_marginEnd="20dp"
         android:text=""
-        android:textSize="20dp"
+        android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/textView16"
         app:layout_constraintTop_toBottomOf="@+id/Contract_No" />
@@ -111,8 +111,8 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="10dp"
         android:layout_marginTop="25dp"
-        android:text="Vehicle"
-        android:textSize="20dp"
+        android:text="@string/vehicle"
+        android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView16" />
 
@@ -124,7 +124,7 @@
         android:layout_marginTop="25dp"
         android:layout_marginEnd="20dp"
         android:text=""
-        android:textSize="20dp"
+        android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/textView18"
         app:layout_constraintTop_toBottomOf="@+id/name" />
@@ -135,8 +135,8 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="10dp"
         android:layout_marginTop="25dp"
-        android:text="Chassis No"
-        android:textSize="20dp"
+        android:text="@string/chassis_no"
+        android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView18" />
 
@@ -148,7 +148,7 @@
         android:layout_marginTop="25dp"
         android:layout_marginEnd="20dp"
         android:text=""
-        android:textSize="20dp"
+        android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/textView20"
         app:layout_constraintTop_toBottomOf="@+id/Vehicle" />
@@ -159,8 +159,8 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="10dp"
         android:layout_marginTop="25dp"
-        android:text="Engine No"
-        android:textSize="20dp"
+        android:text="@string/engine_no"
+        android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView20" />
 
@@ -172,7 +172,7 @@
         android:layout_marginTop="25dp"
         android:layout_marginEnd="20dp"
         android:text=""
-        android:textSize="20dp"
+        android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/textView22"
         app:layout_constraintTop_toBottomOf="@+id/Chassis_no" />
